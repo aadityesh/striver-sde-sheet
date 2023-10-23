@@ -1,4 +1,5 @@
+*.exe
 /.cph
 /.vscode
-*bin
+*.bin
 prac.cpp
